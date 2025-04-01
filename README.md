@@ -81,7 +81,7 @@ This project was developed using the following technologies:
 
 
 
-### **Usage**  
+## Usage
 
 This project helps users **track expenses, estimate credit scores, and receive personalized credit card recommendations** based on their spending habits. Here’s how it can be used:  
 
