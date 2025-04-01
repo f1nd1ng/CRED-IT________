@@ -112,7 +112,7 @@ By using this system, users can **gain better financial insights, optimize their
 
 > By Group 4(JuniHers)
 
-- Ramanu Rishita -       [f1nd1ng](https://github.com/f1nd1ng) - Developed the finance tracker feature.
+- Ramanu Rishita -       [f1nd1ng](https://github.com/f1nd1ng) - Developed the finance tracker feature and worked on integration.
 - Kaithey Hanika Vasu -  [Hanikaaaa](https://github.com/Hanikaaaa) - Worked on the chatbot and contributed to the credit card recommendation model.
 - Sonali Sharma -        [Sonali0309](https://github.com/Sonali0309) - Worked on the chatbot and contributed to the credit card recommendation model.
-- Vidhi Gupta -           [vidhi-gupta45](https://github.com/vidhi-gupta45) - Developed the credit card score simulator.
+- Vidhi Gupta -           [vidhi-gupta45](https://github.com/vidhi-gupta45) - Developed the credit score simulator and worked on UI.
