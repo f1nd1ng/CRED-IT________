@@ -1,5 +1,13 @@
 ## Getting Started
 
+### Installation
+
+> - Clone the Repository
+> ```
+> git clone <Repository url>
+> 
+> ```
+
 ### Prerequisites 
 
 > - django fromework backend
@@ -51,11 +59,3 @@
 > ```
 >
 
-
-### Installation
-
-> - Clone the Repository
-> ```
-> git clone <Repository url>
-> 
-> ```
