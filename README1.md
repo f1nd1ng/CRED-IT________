@@ -1,12 +1,5 @@
 ## Getting Started
 
-### Installation
-
-> - Clone the Repository
-> ```
-> git clone <Repository url>
-> 
-> ```
 
 ### Prerequisites 
 
@@ -16,6 +9,22 @@
 >       - pip (Python package manager)
 >       - Virtualenv (Recommended for dependency management)
 >       - Django
+
+> 
+> - next.js frontend
+>   - Requirements
+>       - Node.js (>= 16.x recommended)
+>       - npm
+
+
+### Installation
+
+> - Clone the Repository
+> ```
+> git clone <Repository url>
+> 
+> ```
+> - Install Django framework
 > ```
 > # Navigate to the backend directory
 > cd credit_backend
@@ -40,11 +49,7 @@
 > 
 > #By default, the backend will run at: http://127.0.0.1:8000/
 > ```
-> 
-> - next.js frontend
->   - Requirements
->       - Node.js (>= 16.x recommended)
->       - npm
+> - Install npm
 > ```
 > # Navigate to the frontend directory
 > cd ../credit_frontend
@@ -58,4 +63,3 @@
 > # Make sure to run at (http://localhost:3000/) due to google authentication
 > ```
 >
-
